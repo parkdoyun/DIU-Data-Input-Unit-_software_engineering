@@ -16,5 +16,6 @@ Data Input Unit (DIU) 는 Input Data를 식별하고, 분류하고, 부합되는
 3. Output Data의 format 은 message 이고, content 는 DIU-ID, meassge-ID, AMI-ID, 종류, 주소, 지역, 날짜, 1일 사용전력량, 모두 8개이다. (ex, 1001, 1000001, 11, 회사, 용현1동, 인천시 ~~ , 2021년 8월 1일, 1000kw). DIU-ID 는 Data Input Unit-ID 이다.<br><br>
 //////////////////////////////////////////////////////////////
 <br><br><br>
+![DIU 그림](https://user-images.githubusercontent.com/60337066/141149736-4a809d68-ef77-4321-9f5a-3641c2f27d0a.PNG)
 
 ▲ [DIU State Transition Diagram]<br>
