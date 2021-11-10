@@ -25,11 +25,10 @@
 ▲ [DIU system2 State Transition Diagram]
 <br><br><br>
 
-
 ![DIU 그림](https://user-images.githubusercontent.com/60337066/141145252-658ca5c1-67eb-457d-876a-54884ffe191b.PNG)
 ▲ [DIU system3 State Transition Diagram]
 <br><br><br>
 
-
-![회사 AMI](https://user-images.githubusercontent.com/60337066/141144994-b214de62-eff8-4747-8e9c-6733aebbde59.PNG)
+![AMI 그림](https://user-images.githubusercontent.com/60337066/141148759-8a8b1218-c597-46af-a75b-08ba3d3ecd85.PNG)
 ▲ [AMI company State Transition Diagram]
+<br><br>
